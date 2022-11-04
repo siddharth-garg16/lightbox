@@ -9,6 +9,7 @@
     padding-top: 30px;
     padding-bottom: 30px;
     z-index: 99999;
+    display: none;
 }
 #vis-pop #leftarrow{
     position: absolute;

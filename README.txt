@@ -1,0 +1,2 @@
+-Every image that needs to be poped up should use a popup class.
+-Provided plugins must be included in the html webpage of the website.
